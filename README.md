@@ -36,4 +36,4 @@ Steps-
 15.By using git log --oneline --graph --all to see all the commit that we have already done. 
 16.git checkout mybranch
 17.New files are added and committed we can easily see both the files by using ls command.
-18.By using git diff mybranch we can easily see the differences between both the files.
+18.By using git diff mybranch we can easily see the differences between both the branches.
