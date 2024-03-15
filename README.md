@@ -1,6 +1,7 @@
 # 22BDO10055_labmst1
 4. The task
 You again live in your own branch, this time we will be doing a bit of juggling with branches, to show how lightweight branches are in git. Hint: git switch will make you switch from one branch to another.
+
 1.	Use git branch to see the two branches that are relevant for this exercise
 2.	What branch are you on?
 3.	Use git branch mybranch to create a new branch called mybranch
